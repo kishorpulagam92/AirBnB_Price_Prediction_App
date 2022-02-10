@@ -1,0 +1,1 @@
+This app helps to predict the price of AirBnB's in NewYork
